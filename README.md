@@ -35,3 +35,39 @@ The complete workflow includes:
 - Business Insights
 
 The dashboard helps analyze **Sales Performance, Customer Behavior, Product Performance, Returns, Ratings, and Delivery Partner Performance** through interactive reports.
+
+---
+
+# 🗄️ Database Architecture
+
+The project follows a relational database architecture designed in Oracle SQL. The database is normalized using Primary Keys and Foreign Keys to ensure data integrity and efficient querying.
+
+## 📌 Entity Relationship (ER) Diagram
+
+<p align="center">
+  <img src="Documentation/ER_Diagram.png" width="900">
+</p>
+
+The ER Diagram represents the relationships between Customers, Orders, Products, Delivery Partners, Transactions, Ratings, and Returns.
+
+---
+
+## ⭐ Star Schema
+
+<p align="center">
+  <img src="Documentation/Star_Schema.png" width="900">
+</p>
+
+The analytical model is centered around the **Orders** fact table with supporting dimension tables such as Customers, Products, Delivery, and Date Table.
+
+---
+
+## 📊 Power BI Data Model
+
+<p align="center">
+  <img src="Documentation/Data_Model.png" width="900">
+</p>
+
+The Power BI data model establishes one-to-many relationships between dimension and fact tables to support efficient DAX calculations and interactive reporting.
+
+---
