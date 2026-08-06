@@ -72,12 +72,10 @@ The Power BI data model establishes one-to-many relationships between dimension 
 
 ---
 
-# 📈 Dashboard Preview
-
 ## 🏠 Executive Dashboard
 
 <p align="center">
-<img src="Dashboard Screenshots/01_Executive_Dashboard.png" width="1000">
+<img src="Dashboard Screenshot/Executive_Dashboard.png" width="1000">
 </p>
 
 ---
@@ -85,7 +83,7 @@ The Power BI data model establishes one-to-many relationships between dimension 
 ## 💰 Sales Analysis
 
 <p align="center">
-<img src="Dashboard Screenshots/02_Sales_Analysis.png" width="1000">
+<img src="Dashboard Screenshot/Sales_Analysis.png" width="1000">
 </p>
 
 ---
@@ -93,7 +91,7 @@ The Power BI data model establishes one-to-many relationships between dimension 
 ## 👥 Customer Analysis
 
 <p align="center">
-<img src="Dashboard Screenshots/03_Customer_Analysis.png" width="1000">
+<img src="Dashboard Screenshot/Customer_Analysis.png" width="1000">
 </p>
 
 ---
@@ -101,7 +99,7 @@ The Power BI data model establishes one-to-many relationships between dimension 
 ## 📦 Product Analysis
 
 <p align="center">
-<img src="Dashboard Screenshots/04_Product_Analysis.png" width="1000">
+<img src="Dashboard Screenshot/Product_Analysis.png" width="1000">
 </p>
 
 ---
@@ -109,7 +107,7 @@ The Power BI data model establishes one-to-many relationships between dimension 
 ## 🚚 Returns & Delivery Analysis
 
 <p align="center">
-<img src="Dashboard Screenshots/05_Returns_Delivery.png" width="1000">
+<img src="Dashboard Screenshot/Returns_Delivery.png" width="1000">
 </p>
 
 ---
