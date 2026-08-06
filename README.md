@@ -71,3 +71,46 @@ The analytical model is centered around the **Orders** fact table with supportin
 The Power BI data model establishes one-to-many relationships between dimension and fact tables to support efficient DAX calculations and interactive reporting.
 
 ---
+
+# 📈 Dashboard Preview
+
+## 🏠 Executive Dashboard
+
+<p align="center">
+<img src="Dashboard Screenshots/01_Executive_Dashboard.png" width="1000">
+</p>
+
+---
+
+## 💰 Sales Analysis
+
+<p align="center">
+<img src="Dashboard Screenshots/02_Sales_Analysis.png" width="1000">
+</p>
+
+---
+
+## 👥 Customer Analysis
+
+<p align="center">
+<img src="Dashboard Screenshots/03_Customer_Analysis.png" width="1000">
+</p>
+
+---
+
+## 📦 Product Analysis
+
+<p align="center">
+<img src="Dashboard Screenshots/04_Product_Analysis.png" width="1000">
+</p>
+
+---
+
+## 🚚 Returns & Delivery Analysis
+
+<p align="center">
+<img src="Dashboard Screenshots/05_Returns_Delivery.png" width="1000">
+</p>
+
+---
+
