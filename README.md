@@ -114,3 +114,130 @@ The Power BI data model establishes one-to-many relationships between dimension 
 
 ---
 
+# 📊 Key Performance Indicators (KPIs)
+
+The dashboard tracks the following business KPIs:
+
+- 💰 Total Revenue
+- 🛒 Total Orders
+- 👥 Total Customers
+- ⭐ Average Product Rating
+- 📦 Average Order Value
+- 🔄 Return Rate
+- 🎟 Coupon Usage %
+- 🏆 Best Selling Category
+- 🚚 Average Delivery Rating
+- 💵 Revenue Per Customer
+
+---
+
+# 💡 Business Insights
+
+The dashboard reveals several important business insights:
+
+- 📈 Maharashtra generated the highest revenue.
+- 👕 Blazer is the highest revenue generating category.
+- 🏆 Pencil Silk Shirt is the best-selling product.
+- ⭐ Average product rating is 2.99.
+- 🔄 Return rate is 20%.
+- 🚚 Ecom Express handled the highest number of deliveries.
+- 📅 Tuesday generated the highest revenue.
+- 🎟 Nearly 50% of orders used coupons.
+- 👥 Male and Female customer distribution is almost equal.
+
+---   
+
+# 📂 Repository Structure
+
+```text
+Myntra-Ecommerce-Analytics
+│
+├── Dataset
+│   ├── customers_clean.csv
+│   ├── orders_clean.csv
+│   ├── products_clean.csv
+│   ├── transactions_clean.csv
+│   ├── ratings_clean.csv
+│   ├── returns_clean.csv
+│   └── delivery_clean.csv
+│
+├── Python
+│   ├── Data_Cleaning.ipynb
+│   ├── Load_Data_Oracle.ipynb
+│
+├── Oracle SQL
+│   ├── 01_Create_Tables.sql
+│   ├── 02_Primary_Keys.sql
+│   ├── 03_Foreign_Keys.sql
+│   └── 05_Business_Queries.sql
+│
+├── Power BI
+│   └── Myntra_Ecommerce_Dashboard.pbix
+│
+├── Dashboard Screenshots
+│
+├── Documentation
+│
+└── README.md
+```
+
+---
+
+# 🚀 How To Run
+
+1. Download the repository.
+2. Open Oracle SQL and execute the SQL scripts.
+3. Load cleaned CSV files into Oracle Database.
+4. Open the Power BI (.pbix) file.
+5. Refresh the data source.
+6. Explore the interactive dashboards.
+
+---
+
+# 🛠 Skills Demonstrated
+
+- Data Cleaning
+- Data Transformation
+- Database Design
+- Data Modeling
+- SQL
+- Oracle SQL
+- DAX
+- Power BI
+- Business Intelligence
+- Dashboard Design
+- Data Visualization
+
+---
+
+# 🔮 Future Enhancements
+
+- Sales Forecasting
+- Customer Segmentation
+- Product Recommendation System
+- Inventory Analytics
+- Machine Learning Integration
+- Real-time Dashboard
+
+---
+# 👨‍💻 Author
+
+**Adarsh Band**
+
+🎯 Aspiring Data Analyst
+
+### Skills
+
+- SQL
+- Oracle SQL
+- Python
+- Pandas
+- Power BI
+- DAX
+- Excel
+
+If you like this project, don't forget to ⭐ this repository.
+
+---
+ 
+
